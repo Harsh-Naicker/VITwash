@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "595819740260",
+    "project_id": "vitwash-56165",
+    "storage_bucket": "vitwash-56165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595819740260:android:1dbef3ec628b6f89d17371",
+        "android_client_info": {
+          "package_name": "com.vitwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595819740260-tmb0661n2m20s4p61cqjnu1kjqog4kob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-IRu1tFtuYLkkmr75KzN-51oLO-kiVWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595819740260-tmb0661n2m20s4p61cqjnu1kjqog4kob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595819740260-cumo1edi4rhrrh6bfnskitv93uig80qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hay.vitwash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
